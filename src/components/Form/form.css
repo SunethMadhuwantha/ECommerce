@@ -1,0 +1,18 @@
+.logincontainer {
+  background: linear-gradient(rgba(21, 21, 32, 0.35), rgba(35, 35, 45, 0.55)),
+    url("/src/assets/images/loginwall.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  max-height: 100vh;
+}
+.registercontainer {
+  background: linear-gradient(rgba(21, 21, 32, 0.35), rgba(35, 35, 45, 0.55)),
+    url("/src/assets/images/register.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  max-height: 100vh;
+}
