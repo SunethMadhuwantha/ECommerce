@@ -5,7 +5,10 @@ import Sidebar1 from "./Sidebar1";
 function Profile() {
   return (
     <>
-      <div className="flex items-center justify-center w-full py-8">
+      <div
+        className="flex items-center justify-center w-full py-8"
+        style={{ marginLeft: "550px", width: "600px" }}
+      >
         {/* Card code block start */}
         <div className="bg-white dark:bg-gray-800 shadow rounded">
           <div className="relative">
