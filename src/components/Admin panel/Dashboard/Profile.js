@@ -5,7 +5,6 @@ import Sidebar1 from "./Sidebar1";
 function Profile() {
   return (
     <>
-      
       <div className="flex items-center justify-center w-full py-8">
         {/* Card code block start */}
         <div className="bg-white dark:bg-gray-800 shadow rounded">
@@ -24,9 +23,7 @@ function Profile() {
             </div>
           </div>
           <div className="px-5 xl:px-10 pb-10">
-            <div className="flex justify-center xl:justify-end w-full pt-16 xl:pt-5">
-              
-            </div>
+            <div className="flex justify-center xl:justify-end w-full pt-16 xl:pt-5"></div>
             <div className="pt-3 xl:pt-5 flex flex-col xl:flex-row items-start xl:items-center justify-between">
               <div className="xl:pr-16 w-full xl:w-2/3">
                 <div className="text-center xl:text-left mb-3 xl:mb-0 flex flex-col xl:flex-row items-center justify-between xl:justify-start">
@@ -87,7 +84,6 @@ function Profile() {
         {/* Card code block end */}
       </div>
     </>
-    
   );
 }
 export default Profile;
